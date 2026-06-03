@@ -80,7 +80,7 @@ Approximately **26% of customers have churned**, which indicates a significant r
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard/Churn_Dashboard.png)
+![Dashboard](Dashboard/Churn_Dashboard.png)
 
 ---
 
